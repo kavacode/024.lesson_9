@@ -1,0 +1,31 @@
+body {
+	background-color: #f0f0f0;
+	text-align: center;
+}
+
+#container {
+	width: 1920px;
+	height: 1080px;
+	margin: auto;
+	overflow: hidden;
+	margin-bottom: 50px;
+}
+
+#random {
+	max-width: 100%;
+	height: auto;
+}
+
+#imageButton {
+	background-color: #0074d9;
+	color: #fff;
+	padding: 10px 20px;
+	font-size: 25px;
+	border: none;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+#imageButton:hover {
+	background-color: #0056a5;
+}
